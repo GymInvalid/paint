@@ -1,0 +1,12 @@
+D:\c#4\Байрамов Кянан\Paint\bin\Debug\Paint.exe.config
+D:\c#4\Байрамов Кянан\Paint\bin\Debug\Paint.exe
+D:\c#4\Байрамов Кянан\Paint\bin\Debug\Paint.pdb
+D:\c#4\Байрамов Кянан\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\c#4\Байрамов Кянан\Paint\obj\Debug\Paint.FImage.resources
+D:\c#4\Байрамов Кянан\Paint\obj\Debug\Paint.Form1.resources
+D:\c#4\Байрамов Кянан\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\c#4\Байрамов Кянан\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\c#4\Байрамов Кянан\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\c#4\Байрамов Кянан\Paint\obj\Debug\Paint.exe
+D:\c#4\Байрамов Кянан\Paint\obj\Debug\Paint.pdb
+D:\c#4\Байрамов Кянан\Paint\obj\Debug\Paint.F_Menu.resources
